@@ -1,2 +1,2 @@
-# Lightboiz.github.io
+# Lightboiz.github.com
 The Website for all media purposes
